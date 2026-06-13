@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning new thing in world of computer everyday.
 - 🌱 I’m currently learning c/c++ lang. Simultaneously.
 - 🤔 I’m currently working on my "Python to Mysql table creation program".
-- 🙂 I'm currently a student doing B.Tech CS (Ist Year).
+- 🙂 I'm currently a student doing B.Tech CS (IVst Year).
 
 <!---
 deep-kratos/deep-kratos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
